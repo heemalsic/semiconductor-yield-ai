@@ -1,18 +1,24 @@
+
 # AI-Driven Semiconductor Yield Analytics Platform
 
 An interactive machine learning system for **predicting wafer yield, identifying yield limiters, and analyzing semiconductor manufacturing processes**.
 
-This project simulates the workflow of **yield engineers in semiconductor fabs**, combining statistical analysis, machine learning, explainable AI, and interactive dashboards to understand how fabrication parameters influence chip yield.
+This project simulates the workflow of **yield engineers in semiconductor fabrication plants**, combining statistical analysis, machine learning, explainable AI, and interactive dashboards to understand how fabrication parameters influence chip yield.
 
-<b>Analytics Dashboard</b>
-<hr width="1000" align="left">
-
-<img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="600">
-<img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png" width="600">
-<img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="600">
-
-**ML Yield Predictor**
 ---
+
+## Analytics Dashboard
+
+<p align="center">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="30%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png" width="30%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_3.png" width="30%">
+</p>
+
+---
+
+## ML Yield Predictor
+
 
 # Overview
 
