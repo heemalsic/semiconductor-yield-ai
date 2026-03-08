@@ -33,6 +33,13 @@ This platform provides tools to:
 
 The system mimics how **yield engineering analytics platforms** are used inside semiconductor fabs.
 
+## Plots
+
+<p align="center">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/feature_importance.png" width="45%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/shap_summary.png" width="45%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/spc_pressure.png" width="30%">
+</p>
 ---
 
 # Key Features
