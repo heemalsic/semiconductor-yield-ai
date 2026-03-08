@@ -6,7 +6,7 @@ An interactive machine learning system for **predicting wafer yield, identifying
 This project simulates the workflow of **yield engineers in semiconductor fabrication plants**, combining statistical analysis, machine learning, explainable AI, and interactive dashboards to understand how fabrication parameters influence chip yield.
 
 ---
-
+## Analytics Dashboard
 <p align="center">
   <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="45%">
   <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png" width="45%">
