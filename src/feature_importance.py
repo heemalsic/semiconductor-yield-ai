@@ -1,10 +1,14 @@
 import joblib
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 from preprocess import load_data
 
+
 def plot_importance():
+
+    os.makedirs("plots", exist_ok=True)
 
     df = load_data()
 
@@ -30,7 +34,13 @@ def plot_importance():
 
     plt.title("Top Process Parameters Affecting Yield")
 
+    plt.tight_layout()
+
+    # save plot
+    plt.savefig("plots/feature_importance.png", dpi=300)
+
     plt.show()
+
 
 if __name__ == "__main__":
     plot_importance()
