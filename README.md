@@ -1,7 +1,7 @@
 
 # AI-Driven Semiconductor Yield Analytics Platform
 
-**NOTE:** The project has been deployed on Google Cloud Platform and the link to the dashboard is https://semiconductor-yield-ai-867036047757.us-central1.run.app/
+**NOTE:** The project has been deployed on Google Cloud Platform. Link to the dashboard: https://semiconductor-yield-ai-867036047757.us-central1.run.app/
 
 An interactive machine learning system for **predicting wafer yield, identifying yield limiters, and analyzing semiconductor manufacturing processes**.
 
