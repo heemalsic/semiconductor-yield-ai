@@ -7,6 +7,8 @@ This project simulates the workflow of **yield engineers in semiconductor fabs**
 # Analytics Dashboard
 
 ![UI](https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png)
+![UI](https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png)
+![UI](https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_3.png)
 ---
 
 # Overview
