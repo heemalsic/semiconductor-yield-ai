@@ -19,7 +19,7 @@ This project simulates the workflow of **yield engineers in semiconductor fabric
 
 ## ML Yield Predictor
 
- <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/ml_predictor.png" width="80%">
+ <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/ml_predictor.png" width="50%">
 
 
 # Overview
