@@ -40,6 +40,7 @@ The system mimics how **yield engineering analytics platforms** are used inside 
   <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/spc_pressure.png" width="45%">
   <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/shap_summary.png" width="45%">
 </p>
+
 ---
 
 # Key Features
