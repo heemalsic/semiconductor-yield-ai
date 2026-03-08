@@ -10,9 +10,9 @@ This project simulates the workflow of **yield engineers in semiconductor fabric
 ## Analytics Dashboard
 
 <p align="center">
-  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="80%">
-  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png" width="80%">
-  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_3.png" width="80%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_1.png" width="50%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_2.png" width="50%">
+  <img src="https://github.com/heemalsic/semiconductor-yield-ai/blob/main/plots/dashboard_3.png" width="50%">
 
 </p>
 ---
